@@ -1,3 +1,7 @@
 <template>
-    <h1>LOGIN</h1>
+    <el-container>
+        <el-main>
+            <LoginForm />
+        </el-main>
+    </el-container>
 </template>
