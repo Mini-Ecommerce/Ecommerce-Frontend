@@ -10,6 +10,7 @@
   },
   "devDependencies": {
     "@element-plus/nuxt": "^1.0.4",
+    "@nuxt/devtools": "^0.4.1",
     "@types/node": "^18",
     "@vueuse/core": "^10.0.2",
     "@vueuse/nuxt": "^10.0.2",
